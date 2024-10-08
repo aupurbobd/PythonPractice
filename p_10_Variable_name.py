@@ -1,0 +1,7 @@
+_no_digit_first = input("What is your favorite Quote?")
+print(len(_no_digit_first))
+myAge=input("Enter Your age:")
+myage = input("Enter your age 10 years later:")
+print(myAge)
+print(myage)
+print(type(myage))
